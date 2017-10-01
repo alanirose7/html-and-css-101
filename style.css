@@ -230,3 +230,32 @@ a {
   color: #648880;
 }
 
+
+/*
+
+FOOTER
+
+*/
+
+.primary-footer {
+  color: #648880;
+  font-size: 14px;
+  padding-bottom: 44px;
+  padding-top: 44px;
+}
+.primary-footer small {
+  float: left;
+  font-weight: 400;
+}
+
+
+/* 
+
+HERO 
+
+*/
+
+.hero {
+	line-height: 44px;
+	padding: 22px 80px 66px 80px;
+}
